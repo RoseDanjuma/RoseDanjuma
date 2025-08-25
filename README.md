@@ -79,18 +79,16 @@ Research Focus: Applying advanced mathematical concepts, machine learning algori
 - Twitter: https://x.com/RoszyPeterz 
 - WhatsApp: +234 901 414 9124
 
-
 🌱 Current Focus
-
-📖 Preparing PhD applications in Applied Mathematics & ML/AI
-🤖 Developing AI-powered educational tools and algorithms
-📊 Analyzing learning data from 150K+ students using ML techniques
-🔬 Research in mathematical modeling of educational processes
-🚀 Building scalable ML solutions for African education challenges
-
+- Preparing PhD applications in Applied Mathematics & ML/AI
+- Developing AI-powered educational tools and algorithms
+- Analyzing learning data from 150K+ students using ML techniques
+- Research in mathematical modeling of educational processes
+- Building scalable ML solutions for African education challenges
 
 "Mathematics is the language with which God has written the universe." - Galileo Galilei
-Let's collaborate to revolutionize education through mathematics and AI! 🚀
+
+Let's collaborate to revolutionize education through mathematics and AI! 
 
 <!---
 RoszyPeterz/RoszyPeterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
