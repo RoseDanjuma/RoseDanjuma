@@ -6,15 +6,20 @@ Bridging mathematics, machine learning, and educational innovation for Africa
 I'm an Applied Mathematician and ML/AI researcher based in Abuja, Nigeria, focused on developing innovative machine learning solutions for educational challenges across Africa. As General Manager at Hutzpa Innovations & Consulting Lab and founder of School of Mathematics Nigeria (SomNg), I apply mathematical modeling, AI algorithms, and data science to create scalable educational technologies.
 
 🚀 Current Impact
-150,000+ learners reached across YouTube, TikTok, Instagram, and offline hubs
-1,000+ students personally coached and mentored
-10+ African countries engaged through pan-African programs
-200+ pages of educational content developed for innovation hubs
+1) 150,000+ learners reached across YouTube, TikTok, Instagram, and offline hubs
+
+2) 1,000+ students personally coached and mentored
+
+3) 10+ African countries engaged through pan-African programs
+
+4) 200+ pages of educational content developed for innovation hubs
 
 💡 Key Projects & Ventures
 1) AI-Powered Learning Platforms - Developing machine learning algorithms to personalize mathematics education, using predictive modeling to identify learning gaps and optimize content delivery.
-2) Educational Data Analytics - Applying statistical analysis and data mining techniques to learning patterns from 150K+ learners, creating insights for improving educational outcomes.
-3) Mathematical Modeling for Education - Using advanced mathematical concepts to model learning processes, optimize resource allocation, and predict student success rates in underserved communities.
+   
+3) Educational Data Analytics - Applying statistical analysis and data mining techniques to learning patterns from 150K+ learners, creating insights for improving educational outcomes.
+   
+4) Mathematical Modeling for Education - Using advanced mathematical concepts to model learning processes, optimize resource allocation, and predict student success rates in underserved communities.
 
 👩‍🎓 WomenInPhD
 Growing support network for aspiring African women scholars pursuing doctoral studies.
@@ -51,14 +56,6 @@ BSc Mathematics - Federal University Lafia (4.12/5.00 - Second Class Upper)
 - Women Techsters Project Management (2024)
 - Data Science Nigeria Certification (2024)
 
-🔬 Research Interests & PhD Vision
-1) Currently exploring fully funded PhD opportunities in:
-Applied Mathematics with focus on Machine Learning applications
-AI/ML for Educational Innovation - developing intelligent tutoring systems
-Mathematical Modeling of learning processes and educational outcomes
-Optimization Algorithms for resource allocation in education
-Data-Driven Educational Technologies for underserved communities
-
 Research Focus: Applying advanced mathematical concepts, machine learning algorithms, and AI techniques to solve complex educational challenges, particularly in developing scalable, intelligent learning systems for Africa.
 
 🏆 Recognition & Impact
@@ -70,8 +67,6 @@ Research Focus: Applying advanced mathematical concepts, machine learning algori
 
 📝 Writing & Thought Leadership
 - Substack: https://substack.com/@rosedanjuma - Insights on African education, curriculum design, and EdTech innovation
-- Content Creation: Regular educational content across social media platforms reaching 150K+ followers
-- Speaking: Facilitator at high-impact workshops including Nigerian Airspace Management Agency (NAMA) training for 100+ staff
 
 🤝 Let's Connect
 - LinkedIn: linkedin.com/in/rosedanjuma
@@ -80,11 +75,7 @@ Research Focus: Applying advanced mathematical concepts, machine learning algori
 - WhatsApp: +234 901 414 9124
 
 🌱 Current Focus
-- Preparing PhD applications in Applied Mathematics & ML/AI
-- Developing AI-powered educational tools and algorithms
-- Analyzing learning data from 150K+ students using ML techniques
-- Research in mathematical modeling of educational processes
-- Building scalable ML solutions for African education challenges
+A mathematician specializing in computational modeling and optimization, applying rigorous methods to solve real-world problems in education, health, and technology in low-resource context.
 
 "Mathematics is the language with which God has written the universe." - Galileo Galilei
 
